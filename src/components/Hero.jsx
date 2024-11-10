@@ -5,7 +5,7 @@ import WeatherCardContainer from './WeatheCardContainer'
 
 
 const Hero = () => {
-
+  
 
     const [city, setCity] = useState('');
     const [weatherSummary, setWeatherSummary] = useState(null);
